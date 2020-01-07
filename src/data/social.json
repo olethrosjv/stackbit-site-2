@@ -4,7 +4,7 @@
             "type": "twitter",
             "title": "Twitter",
             "icon": "fa-twitter",
-            "url": "https://twitter.com/"
+            "url": "https://twitter.com/JosephV12364390"
         },
         {
             "type": "instagram",
@@ -16,19 +16,19 @@
             "type": "github",
             "title": "GitHub",
             "icon": "fa-github",
-            "url": "https://github.com/"
+            "url": "https://github.com/olethrosjv"
         },
         {
             "type": "linkedin",
             "title": "LinkedIn",
             "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
+            "url": "https://www.linkedin.com/in/joevaughn1/"
         },
         {
             "type": "devto",
             "title": "DEV",
             "icon": "fa-dev",
-            "url": "https://dev.to/"
+            "url": "https://dev.to/olethrosjv"
         }
     ]
 }

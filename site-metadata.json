@@ -1,22 +1,22 @@
 {
-    "title": "Stackbit Blog Site",
-    "palette": "yellow",
-    "header": {
-        "title": "Stackbit Blog Site",
-        "tagline": "A project using Stackbit and Gatsby",
-        "logo_img": "images/logo.png",
-        "bg_img": "images/header-bg.jpg",
-        "has_nav": true,
-        "has_social": true
-    },
-    "footer": {
-        "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
-    }
+  "title": "JAMstack Blog",
+  "palette": "green",
+  "header": {
+    "title": "JAMstack Blog",
+    "tagline": "A project using Stackbit and Gatsby",
+    "logo_img": "/images/logo-thumb.png",
+    "bg_img": "/images/5.jpg",
+    "has_nav": true,
+    "has_social": true
+  },
+  "footer": {
+    "content": "&copy; All rights reserved.",
+    "links": [
+      {
+        "text": "Made with Stackbit",
+        "url": "https://www.stackbit.com",
+        "new_window": true
+      }
+    ]
+  }
 }

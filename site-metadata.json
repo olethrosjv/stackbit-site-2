@@ -1,10 +1,10 @@
 {
   "title": "JAMstack Blog",
-  "palette": "green",
+  "palette": "yellow",
   "header": {
     "title": "JAMstack Blog",
     "tagline": "A project using Stackbit and Gatsby",
-    "logo_img": "/images/logo-thumb.png",
+    "logo_img": "/images/joeVaughnLogo.png",
     "bg_img": "/images/5.jpg",
     "has_nav": true,
     "has_social": true

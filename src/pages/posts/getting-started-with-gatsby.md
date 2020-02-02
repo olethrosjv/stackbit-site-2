@@ -3,6 +3,12 @@ title: Getting Started with Gatsby
 subtitle: Step 1
 date: 2020-02-02T01:48:07.742Z
 thumb_img_path: /images/Gatsby_Logo_Black.png
+excerpt: >-
+  When starting a new project using Gatsby, the React based static site
+  generator, you need to use the command line.The command line, often referred
+  to as the terminal, is a text-based UI that runs commands on your computer.
+  Unlike more universally used graphical user interfaces, the terminal is a
+  powerful, text-based way to interact with your computer.
 hide_header: false
 template: post
 ---

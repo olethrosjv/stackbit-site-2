@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Gatsby
-subtitle: Step 1
+subtitle: ''
 date: 2020-02-02T01:48:07.742Z
 thumb_img_path: /images/Gatsby_Logo_Black.png
 excerpt: >-

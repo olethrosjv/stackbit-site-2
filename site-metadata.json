@@ -5,7 +5,7 @@
     "title": "JAMstack Blog",
     "tagline": "A project using Stackbit and Gatsby",
     "logo_img": "/images/joeVaughnLogo.png",
-    "bg_img": "/images/5.jpg",
+    "bg_img": "",
     "has_nav": true,
     "has_social": true
   },

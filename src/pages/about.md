@@ -15,6 +15,6 @@ His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, E
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, is an amateur chef specializing in Southern cuisine.
+As a hobby, he is an amateur chef specializing in Southern cuisine.
 
 *Thank You for reading!*

@@ -1,17 +1,15 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: /images/meandjoss.jpg
+title: About Canning
+subtitle: A short description about the canning processes
+img_path: /images/corn-relish.jpg
 menus:
   main:
-    title: About
+    title: About Canning
     weight: 2
 template: page
 ---
-**Joe Vaughn** is a Web Developer from Portland, Oregon. After graduating from Portland Community College with a degree in Web Design and development, he worked for three small graphic design shops where he honed his design style and sensibility.
+Canning is a way of preserving food that has been around for centuries. The food is processed and sealed in an airtight container that is stored at room temperature. Proper preservation can result in a shelf life ranging from one to five years. Under some circumstances, it can be much longer. A freeze-dried food product, such as canned dried lentils, could last as much as 30 years in an edible state. 
+Interest in canning products has risen as the popularity of local and seasonal eating has grown. Canning isn’t only possible for summer foods. Canned food such as citrus curd, marmalade, and pickled asparagus highlight food from colder months. 
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, he is an amateur chef specializing in Southern cuisine.
 
 *Thank You for reading!*

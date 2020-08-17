@@ -1,6 +1,10 @@
 ---
 title: Canning Methods
 img_path: /images/pickled-watermellon-1-.jpg
+menus:
+  main:
+    title: Canning Methods
+    weight: 3
 template: page
 ---
 <!--StartFragment-->

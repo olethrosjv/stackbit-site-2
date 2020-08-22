@@ -2,6 +2,7 @@
 title: Blackberry Jam
 subtitle: ""
 date: 2020-08-20T00:08:00.222Z
+thumb_img_path: /images/blackberry-jam.jpg
 hide_header: false
 template: post
 ---

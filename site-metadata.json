@@ -1,10 +1,10 @@
 {
   "title": "Canning is Cool",
-  "palette": "yellow",
+  "palette": null,
   "header": {
     "title": "Canning is Cool",
     "tagline": "A website dedicated to food preservation.",
-    "logo_img": "/images/cream-and-black-natural-makeup-beauty-logo-1-.png",
+    "logo_img": "/images/canning-is-cool-logo.png",
     "bg_img": "",
     "has_nav": true,
     "has_social": true

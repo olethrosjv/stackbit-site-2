@@ -22,7 +22,7 @@ In saucepan, mix together mashed berries, sugar and lemon juice.
 Bring entire berry mix to a boil over medium heat, stirring occasionally. Reduce heat to low and cook until jam is thickened and reaches gelatinous stage, about 30 minutes. 
 Prepare your canning jars by heating them in a pot of simmering water (180°F).  
 Ladle the hot jam into the hot canning jars leaving ¼ inch headspace. 
-Clean the rims and put caps on after jam has cooled, and you can handle the jars. Process the jars using the hot water canning method.
+Clean the rims and put caps on after jam has cooled, and you can handle the jars. Process the jars using the boiling water or pressure canning method.
 
 Can be held in unopened jars for 6 months or more.
 

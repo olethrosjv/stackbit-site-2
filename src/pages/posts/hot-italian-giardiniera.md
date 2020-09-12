@@ -2,6 +2,7 @@
 title: Hot Italian Giardiniera
 date: 2020-09-12T00:47:39.671Z
 thumb_img_path: /images/giardinaira-ingredients.jpg
+excerpt: These pickled vegetables were introduced to Chicago in the late 19th century.
 hide_header: false
 template: post
 ---

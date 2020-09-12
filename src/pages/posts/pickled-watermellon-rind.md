@@ -2,6 +2,7 @@
 title: Pickled Watermellon Rind
 date: 2020-08-25T20:19:16.843Z
 thumb_img_path: /images/pickled-watermellon.jpg
+excerpt: If you thought the watermelon rind was just for the compost bin, think again!
 hide_header: false
 template: post
 ---

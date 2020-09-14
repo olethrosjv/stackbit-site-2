@@ -6,7 +6,7 @@ thumb_img_path: /images/blackberry-jam-red.jpg
 hide_header: false
 menus:
   main:
-    weight: 2
+    weight: 0
 template: post
 ---
 This jam is meant to be canned. The lemon juice will be critical for preserving, but the amount of sugar can be adjusted.  It takes longer to cook down the berries than recipes with a package of pectin. There’s a lot of stirring but it’s worth it!

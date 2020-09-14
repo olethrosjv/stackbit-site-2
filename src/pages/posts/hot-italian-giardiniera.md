@@ -1,7 +1,7 @@
 ---
 title: Hot Italian Giardiniera
 date: 2020-09-12T00:47:39.671Z
-thumb_img_path: /images/giardinaira-ingredients.jpg
+thumb_img_path: /images/gardanar.jpg
 excerpt: These pickled vegetables were introduced to Chicago in the late 19th century.
 hide_header: false
 template: post
@@ -10,7 +10,24 @@ These pickled vegetables were introduced to Chicago in the late 19th century by 
 
 You can chop the veggies however you prefer. In Italy the vegetables are usually left in fairly large pieces and that way it’s also more versatile. Left in larger pieces you have the flexibility of serving the giardiniera with your antipasto and when you want to use it for sandwiches, hot dogs, pasta salads, etc, you can simply diced up the finished giardiniera into smaller chunks.
 
-**Directions**
+### Ingredients
+
+* 1 head of cauliflower
+* 3 large carrots
+* 4 ribs of celery
+* 1 green bell pepper
+* 1 red bell pepper
+* 1 Fresno chili
+* ¼ cup of canning salt
+* 6 large cloves of garlic chopped
+* 1 tbsp fresh oregano, or ½ tbsp of dried
+* 1 tbsp red pepper flakes
+* ½ tbsp of black pepper
+* 2 cups of apple cider vinegar
+
+
+
+### Directions
 
 Place into a bowl the green and red peppers, Fresno chili, celery, carrots, onion, and cauliflower. Stir in salt, and fill with enough cold water to cover. Cover tightly and refrigerate overnight.
 
